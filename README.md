@@ -2,6 +2,7 @@
 Test de b2btic
 
 Procedemos a explicar como funciona el software de la prueba.
+Está construido en PHP, Codeigniter 3.11, base de datos Mysql.
 
 El primer punto está en la url:
 http://andrea.zionika.a2hosted.com/index.php/buscar_archivo/ingresar_info
